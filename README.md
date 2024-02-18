@@ -58,23 +58,23 @@ This repository contains an implementation of a statistical arbitrage strategy k
 
 | File                                                                                                  | Summary                              |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [requirements.txt](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/requirements.txt) | <code>► requirements.txt file</code> |
-| [setup.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/setup.py)                 | <code>► setup.py file</code>         |
+| [requirements.txt](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/requirements.txt) | <code>► requirements.txt file</code> |
+| [setup.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/setup.py)                 | <code>► setup.py file</code>         |
 
 </details>
 
 | File                                                                                                                      | Summary                                                               |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [pair_trading_sp500.ipynb](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/src/pair_trading_sp500.ipynb) | <code>► Report on pair trading strategy and backtesting result</code> |
-| [pair_trading_backtest.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/src/pair_trading_backtest.py) | <code>► Backtesting wrote using backtrader </code>                    |
+| [pair_trading_sp500.ipynb](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/src/pair_trading_sp500.ipynb) | <code>► Report on pair trading strategy and backtesting result</code> |
+| [pair_trading_backtest.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/src/pair_trading_backtest.py) | <code>► Backtesting wrote using backtrader </code>                    |
 
 </details>
 
 | File                                                                                                    | Summary                                                                                      |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [arbitrage.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/src/quant/arbitrage.py) | <code>► Functions regarding statistical cointegration testing and pair selection</code>      |
-| [screening.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/src/quant/screening.py) | <code>► Functions that generates gamma and mu value for z-score and signal generation</code> |
-| [helpers.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/master/src/quant/helpers.py)     | <code>► Helper functions</code>                                                              |
+| [arbitrage.py](https://github.com/kimbh43/statistical-arbitrage/blob/main/src/quant/arbitrage.py) | <code>► Functions regarding statistical cointegration testing and pair selection</code>      |
+| [screening.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/src/quant/screening.py) | <code>► Functions that generates gamma and mu value for z-score and signal generation</code> |
+| [helpers.py](https://github.com/kimbh43/statistical-arbitrage.git/blob/main/src/quant/helpers.py)     | <code>► Helper functions</code>                                                              |
 
 </details>
 
